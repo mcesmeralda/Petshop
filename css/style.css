@@ -1,0 +1,143 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,100&display=swap');
+
+*{
+    font-family: roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-container-top{
+    background-color: #222222;
+    color: #F3F3F3;
+    font-weight: 400;
+}
+
+.list-link{
+   list-style: none;
+   color: #FFFFFF;
+   font-weight: 400;
+   font-size: 13px;
+
+}
+
+.list{
+    list-style: none;
+    justify-content: space-between;
+}
+
+.header-container-t{
+    background-color: orange;
+}
+
+.logof{
+    color: #3C2313;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.logob{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+}
+.logo-d1{
+    color: #FFFFFF;
+    font-weight: ;
+    font-size: ;
+    line-height: ;
+}
+
+.logo-d2{
+    color: #F0A83E;
+    font-weight: ;
+    font-size: ;
+    line-height: ;
+}
+
+
+.banner {
+    background-image: url("../img/bowl-and-pet-daities-on-green-background\ 1.png");
+    width: 1440px;
+    height: 500px;
+    background-repeat: no-repeat;
+   background-size: cover;
+   
+    
+    
+
+}
+
+  .text-banner {
+    position: absolute;
+    right: 60px;
+    top: 237px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    
+  }
+.text-banner .p1{
+    background: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 40px;
+    line-height: 35.16px;
+    margin-top: 120px;
+    font-weight: 400;
+    font-style: normal;
+    color: #3C2313;
+  }
+
+  .text-banner .p2{
+    height: 19px;
+    font-size: 19px;
+    line-height: 18.75px;
+    font-weight: 400;
+    margin-top: 19px;
+    color: #3C2313;
+    font-style: normal;
+    
+  }
+
+  .text-banner .p3 {
+    height: 19px;
+    font-size: 16px;
+    line-height: 50.75px;
+    font-weight: 400;
+    margin-top: 19px;
+    color: #FFFFFF;
+    width: 141px;
+    height: 49px;
+    margin-left: 180px;
+    background: #F0A83E;
+    border-radius: 5px;
+
+  }
+.datos {
+    background-color: #3C2313;
+    width: 1440px;
+    line-height: 33px;
+    color: white;
+   
+    
+}
+
+.f-pie {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 39px;
+    text-align: center;
+}
+
+.pie-de-pagina{
+    background-color: #222222;
+    line-height: 11.72px; 
+    height: 40px;
+    
+
+}
